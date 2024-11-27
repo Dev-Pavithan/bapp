@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bapp/static/css/main.2c36ec28.css",
+    "main.js": "/bapp/static/js/main.c792f150.js",
+    "static/js/453.7bac5da6.chunk.js": "/bapp/static/js/453.7bac5da6.chunk.js",
+    "static/media/Alogorithm.png": "/bapp/static/media/Alogorithm.dc5f444b58bcd3e87634.png",
+    "static/media/JavaScriptTutorial.png": "/bapp/static/media/JavaScriptTutorial.69779bf64a497dbdea92.png",
+    "static/media/DataStructures.jpg": "/bapp/static/media/DataStructures.6fbb460752edb0b7e20b.jpg",
+    "index.html": "/bapp/index.html",
+    "main.2c36ec28.css.map": "/bapp/static/css/main.2c36ec28.css.map",
+    "main.c792f150.js.map": "/bapp/static/js/main.c792f150.js.map",
+    "453.7bac5da6.chunk.js.map": "/bapp/static/js/453.7bac5da6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c36ec28.css",
+    "static/js/main.c792f150.js"
+  ]
+}
